@@ -66,7 +66,7 @@
 
 Agency Standings is a curated platform that ranks and showcases ecommerce agencies based on real client results, testimonials, and published work. It provides rankings across various categories such as Shopify, CRO, and full‑service agencies, offering insights into agency performance, methodology, and case studies. Users can explore agency profiles, industry-specific rankings, and detailed case files to find the right partner for their ecommerce projects.
 
-**Areas:** ecommerce · agency · rankings · marketplace · B2B
+**Areas:** E-Commerce · Agency · Rankings · Marketplace · B2B
 
 ## Agency Standings on APIs.io
 
@@ -84,7 +84,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agencystandings Com Domain Security](https://apis.io/security/agencystandings-com/agencystandings-com-domain-security/)
+- [Agency Standings Domain Security](https://apis.io/security/agencystandings-com/agencystandings-com-domain-security/)
 
 ## Where to find this API
 
@@ -95,18 +95,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 7.0** — minimal · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 7.3** — minimal · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
+| Discoverability | 64.3 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 0.0 |
-| Access clarity | 10.5 |
+| Access clarity | 12.8 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 3.0** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -131,8 +131,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 9.8** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 3.9** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agencystandings-com/](https://apis.io/providers/agencystandings-com/).
 
